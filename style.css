@@ -1,0 +1,43 @@
+a.navbar-brand {
+    padding: 10px;
+    background-color:rgb(72, 182, 145);
+    color: white!important;
+    font-size:medium;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+
+}
+
+h3 {
+    color:rgb(0, 0, 0);
+    padding: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+h1 {
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight:bold;
+}
+
+p {
+    font-size: medium;
+    padding: 10px;
+}
+
+body {
+    background-color: white;
+}
+
+.navbar{
+    background-color: rgb(72, 182, 145);
+    padding-top:0px;
+    padding-bottom: 0px;
+    padding-right:5px;
+}
+
+.nav-item.dropdown.show {
+    background-color: white;
+}
